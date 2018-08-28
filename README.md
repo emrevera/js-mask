@@ -1,4 +1,4 @@
 # js-mask
 Just a simple content Mask done with JS
 
-[View Demo](http://emrevera.com/js-mask/)
+[Live Demo](http://emrevera.com/js-mask/)
